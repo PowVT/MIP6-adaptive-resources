@@ -1,4 +1,4 @@
-# Collateral Application Template
+# MIP6: Collateral Onboarding Application
 
 1. Who is the interested party for this collateral application?
     - Adaptive Resources LLC
@@ -12,7 +12,7 @@
     - Development of the Adaptive web application was started in March 2021 for this project. 
     - September 2021, Adaptive resources will be conducting a field test of the application at a local export site in Uganda.
 4. Link the whitepaper, documentation portals, and source code for the system(s) that interact with the proposed collateral, and all relevant Ethereum addresses. If the system is complex, schematic(s) are especially appreciated.
-    - [Claim Smart Contracts](https://blockscout.com/xdai/mainnet/)
+    - ['Adaptive Claim' Smart Contracts](https://blockscout.com/xdai/mainnet/)
     - [adaptiveresources.io](https://adaptiveresources.io)
     - [app.adaptiveresources.io](https://adaptive-claim.surge.sh)
 5. Link any available audits of the project. Both procedural and smart contract focused audits.
