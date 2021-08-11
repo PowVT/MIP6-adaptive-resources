@@ -14,9 +14,11 @@
     - Development of the Adaptive web application was started in March 2021 for this project. 
     - September 2021, Adaptive team members will be conducting a field test of the application at an export site in Uganda.
 4. Link the whitepaper, documentation portals, and source code for the system(s) that interact with the proposed collateral, and all relevant Ethereum addresses. If the system is complex, schematic(s) are especially appreciated.
-    - [Smart Contracts](https://blockscout.com/xdai/mainnet/)
+    - [AdaptiveClaim Token](https://blockscout.com/xdai/mainnet/tokens/0xcbca271EAa9626fd2ce76926c8e5DF3da42D1Ae4/token-transfers)
+    - [Beneficiary Stream](https://blockscout.com/xdai/mainnet/address/0x9A83946b6a074E3A0187C23471dcb6a17d9b630A/transactions)
     - [adaptiveresources.io](https://adaptiveresources.io)
     - [app.adaptiveresources.io](https://adaptive-claim.surge.sh)
+    - [xDai Flow Diagram](https://photos.app.goo.gl/eTBWTbvw6SaHnPFk8)
 5. Link any available audits of the project. Both procedural and smart contract focused audits.
     - None
 6. Link to any active communities relating to your project.
@@ -35,4 +37,4 @@
 
 
 ## Application Notes
-    - #4 asks for the source code, I am sure we dont want to give this away, but links to the smart contracts will do. 
+    - #4 Asks for the source code, I am sure we dont want to give this away, but links to the smart contracts will do.
