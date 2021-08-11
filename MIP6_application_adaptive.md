@@ -4,10 +4,12 @@
     - Adaptive Resources LLC
     - @Jon Ellermann
 2. Provide a brief high-level overview of the project, with a focus on the applying collateral token.
-    - We have created a ERC721 token to represent mining claims for various types of materials. Mining communities in remote parts of the world need a better mechanism for documenting the products they produce as well as a marketplace where they can sell these goods to downstream buyers. 
-    - The Adaptive Claim ERC721 tokens live on the xDai blockchain where the transactions are quick and cost effective. Using a the blockchain the data is immutable and can be accessed by anyone. Xdai is the native token in the Adaptive app. All Adaptive Claim tokens are purchased using xDai with the price of the claim token being proportionate to 10% of the total value of the claim. 
-    - To incentivise the creation of the ERC721 'Adaptive Claim' tokens, percentages of the sale proceeds are distributed to the upstream beneficiaries who directly contributed to the creation of the claim token and the underlying physical asset. Upon downstream sale of the asset, the beneficiaries are paid out using the proceeds from the sale. Beneficiaries are the mining community that works in the mines to sustainably produce the claims. 
-    - Mine sites are audited for compliance with sustainable practices which are outlined in the 'OECD - Due-Diligence Guidelines for Responsible Supply Chains of Materials from Conflict-Affected and High-Risk Areas'. 
+    - We have created a ERC721 token to represent mining claims for various types of materials. Mining communities in remote parts of the world need a better mechanism for documenting the products they produce as well as a marketplace where they can sell these goods.
+    - The Adaptive Claim ERC721 tokens live on the xDai blockchain where the transactions are quick and cost effective. Using a blockchain approach means the data is immutable and can be accessed or audited by anyone. Xdai is the native token in the Adaptive app and all transactions from minting tokens to buying tokens is done with xDai. All Adaptive Claim tokens are purchased using xDai with the price of the claim token being proportionate to 10% of the total underlying value. 
+    - To incentivise the creation of the ERC721 'Adaptive Claim' tokens, percentages of the sale proceeds are distributed to the upstream beneficiaries. People who directly contributed to the creation of the claim token and the underlying physical asset. This is the mining community which works in the mining region. 
+    - Upon downstream sale of the asset, the beneficiaries are paid out using the proceeds from the sale.
+    - Mine sites are audited for compliance with sustainable practices which are outlined in the 'OECD - Due-Diligence Guidelines for Responsible Supply Chains of Materials from Conflict-Affected and High-Risk Areas'. This process ensures the products being sold in our marketplace have been sustainably extracted and there are no occupational risks or hazards.
+    - ASM (artisinal/ Small-scale mining) companies produce about 20% of the worlds rare earth metals, including Gold, Tin, Tantalum, and Tungsten all of which are commonly defined as "conflict minerals". 
 3. Provide a brief history of the project.
     - Development of the Adaptive web application was started in March 2021 for this project. 
     - September 2021, Adaptive team members will be conducting a field test of the application at an export site in Uganda.
@@ -20,7 +22,7 @@
 6. Link to any active communities relating to your project.
     - None
 7. How is the applying collateral type currently used?
-    - Currently, Adaptive Claim tokens are used to support the local mining communities which directly contribute to the production of the sustainably produced claims. The claim tokens are bought by downstream supply chain actors, and upon sale, the beneficiaries recieve a portion of the proceeds. These claim tokens can be purchased from anywhere around the world through the Adaptive app, which opens up various opportunities for the small scale/artisinal mining communities. 
+    - Currently, the adaptive claim app and the NFTs which it generates are not currently being used in a real world scenario. Contracts are finalized, but the application itself has not been released. Adaptive is working on building an in-app trade finance solution which will be done through the use of Veem. Veem is a business to business payment service which will be used by the claim sellers to charge the downstream buyers full price for the product they are selling.  
 8. Does one organization bear legal responsibility for the collateral? What jurisdiction does that organization reside in?
     - Adaptive Resources resides in the USA.
     - Pilot implementation will reside at DevSol in Uganda. 
