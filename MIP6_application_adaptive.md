@@ -31,14 +31,14 @@
     - None
 
 7. How is the applying collateral type currently used?
-    - Currently, the Adaptive App is not currently being used in production. Smart contracts are finalized, but the application itself has not been released. Adaptive is working on building an in-app trade finance solution which will be done through the use of Veem. Veem is a business to business payment service which will be used by the claim sellers to charge the downstream buyers full price for the product and have a means of recieving the payment in their local currency.
+    - Currently, the Adaptive App is not being used in production. Smart contracts are finalized, but the application itself has not been released. With the help of Maker we can provide the final piece of our trade finance protocol. Ultimately, this type of claim system can be used in a variety of trade scenarios, but we hope to first focus on the precious metals industry. These metals are integral to the electric vehicle and tech sector, with demand expected to rise significantly in the coming years. Studies from the OECD have shown that metals coming out of the mines often face risk being smuggled and sold illegally in order to make higher returns on their goods. By providing a means of up front financing, the proper well documented trade route will be taken.
 
 8. Does one organization bear legal responsibility for the collateral? What jurisdiction does that organization reside in?
     - Adaptive Resources resides in the USA. 
 
 9. Where does exchange for the asset occur?
     - Adaptive Claim tokens are created/bought/sold through the Adaptive app. Here all claim tokens are minted and sold. 
-    - Financing for the Letter of Credit will be exchanged via Dai stablecoins.
+    - Financing for the Letter of Credit will be exchanged via (Dai stablecoins?)
 
 10. (Optional) Has your project obtained any legal opinions or memoranda regarding the regulatory standing of the token or an explanation of the same from the perspective of any jurisdiction? If so, those materials should be provided for community review.
 
