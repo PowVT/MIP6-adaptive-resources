@@ -14,7 +14,7 @@
     By working with MakerDAO, Adaptive Resources hopes to provide the pre-financing necessary to the claim creators, using the Letter of Credit mechanism and treating the claim itself as collateral. This exposes MakerDAO and its participants to a new type of collateral, a physical one. Adaptive Resources targets the ASM (Artisinal and Small-scale Mining) communities in remote regions of the world. Here 20% of the worlds Gold, Tantalum, Tin, and Tungsten is mined. The resources mined here are what make up the claims created in our app.
 
 3. Provide a brief history of the project.
-    - Development of the Adaptive web application was started in March 2021 for this project. 
+    - Development of the Adaptive web application was started in March 2021. 
     - September 2021, Adaptive team members will be conducting a field test of the application at an export site in Uganda.
 
 4. Link the whitepaper, documentation portals, and source code for the system(s) that interact with the proposed collateral, and all relevant Ethereum addresses. If the system is complex, schematic(s) are especially appreciated.
