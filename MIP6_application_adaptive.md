@@ -10,7 +10,7 @@
 
     The underlying product value is to be used as collateral for the pre-fiancing to take place. For example, a regional Gold exporter wants to sell a claim to a refiner in another country. The underlying value of the mined Gold is 5,000 USD. By signing the Letter of Credit, Adaptive Resources will be the temporary owners of the claim and financing will be provided to the exporter in order to pay out the upstream supply chain workers as well as any shipping costs associated with the transaction. This enables the exporter to ship the goods on time without the need to wait for the 30 day invoice deadline.
 
-    By working with MakerDAO, Adaptive Resources hopes to provide the pre-financing necessary to the claim creators, using the Letter of Credit mechanism and treating claim itself as collateral. This exposes MakerDAO and its participants to a new type of collateral, a physical one. Adaptive Resources targets the ASM (Artisinal and Small-scale Mining) communities in remote regions of the world. Here 20% of the worlds Gold, Tantalum, Tin, and Tungsten is mined.
+    By working with MakerDAO, Adaptive Resources hopes to provide the pre-financing necessary to the claim creators, using the Letter of Credit mechanism and treating the claim itself as collateral. This exposes MakerDAO and its participants to a new type of collateral, a physical one. Adaptive Resources targets the ASM (Artisinal and Small-scale Mining) communities in remote regions of the world. Here 20% of the worlds Gold, Tantalum, Tin, and Tungsten is mined. The resources mined here are what make up the claims created in our app.
 
 3. Provide a brief history of the project.
     - Development of the Adaptive web application was started in March 2021 for this project. 
@@ -22,11 +22,11 @@
     - [app.adaptiveresources.io](https://adaptive-claim.surge.sh)
     - [xDai Flow Diagram](https://photos.app.goo.gl/eTBWTbvw6SaHnPFk8)
 5. Link any available audits of the project. Both procedural and smart contract focused audits.
-    - None
+    - The pilot implementation in September will be the best procedual audit on the application. 
 6. Link to any active communities relating to your project.
     - None
 7. How is the applying collateral type currently used?
-    - Currently, the adaptive claim app is not currently being used in production. Smart contracts are finalized, but the application itself has not been released. Adaptive is working on building an in-app trade finance solution which will be done through the use of Veem. Veem is a business to business payment service which will be used by the claim sellers to charge the downstream buyers full price for the product and have a means of recieving the payment.  
+    - Currently, the Adaptive App is not currently being used in production. Smart contracts are finalized, but the application itself has not been released. Adaptive is working on building an in-app trade finance solution which will be done through the use of Veem. Veem is a business to business payment service which will be used by the claim sellers to charge the downstream buyers full price for the product and have a means of recieving the payment in their local currency.
 8. Does one organization bear legal responsibility for the collateral? What jurisdiction does that organization reside in?
     - Adaptive Resources resides in the USA. 
 9. Where does exchange for the asset occur?
