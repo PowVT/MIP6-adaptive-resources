@@ -11,7 +11,7 @@
 
     The underlying product value is to be used as collateral for the pre-fiancing to take place. For example, a regional Gold exporter creates a claim on the Adaptive app. Later, a refiner in another country buys this claim through the app. The underlying value of the Gold is 5,000 USD. By signing the Letter of Credit, Adaptive Resources will be the temporary owners of the claim and financing will be provided to the exporter (claim creator) in order to pay the upstream supply chain workers as well as any shipping costs associated with the transaction. By using a Letter of Credit, the importer can minimize thier risk and liquidity providers can be protected by the underlying collateral.
 
-    In working with MakerDAO, Adaptive Resources hopes to provide the pre-financing necessary to the claim creators, using the Letter of Credit mechanism and treating the claim itself as collateral. This exposes MakerDAO and its participants to a new type of collateral, a physical one. Adaptive Resources targets ASM (Artisinal and Small-scale Mining) communities in remote regions of the world. Here 20% of the world's Gold, Tantalum, Tin, and Tungsten is mined. There is a large oppotunity to grow within the developing nations who are now more and more frequently turning to crypto for and access to financial services. 
+    In working with MakerDAO, Adaptive Resources hopes to provide the pre-financing necessary to the claim creators, using the Letter of Credit mechanism and treating the claim itself as collateral. This exposes MakerDAO and its participants to a new type of collateral, a physical one. Adaptive Resources targets ASM (Artisinal and Small-scale Mining) communities in remote regions of the world. Here 20% of the world's Gold, Tantalum, Tin, and Tungsten is mined. There is a large oppotunity to grow within the developing nations who are now more and more frequently turning to crypto for and access to financial services. [OECD Due Diligence Guidenece](https://www.oecd.org/daf/inv/mne/OECD-Due-Diligence-Guidance-Minerals-Edition3.pdf)
 
 3. Provide a brief history of the project.
     - Development of the Adaptive web application was started in March 2021. 
@@ -25,7 +25,7 @@
     - [xDai Flow Diagram](https://photos.app.goo.gl/eTBWTbvw6SaHnPFk8)
 
 5. Link any available audits of the project. Both procedural and smart contract focused audits.
-    - The pilot implementation in September will be the best procedual audit on the application. 
+    - The pilot implementation in September will be the first procedual audit on the application. 
 
 6. Link to any active communities relating to your project.
     - None
@@ -45,5 +45,6 @@
 11. (Optional) Describe whether there are any regulatory registrations for the token and provide related documentation (including an explanation of any past or existing interactions with any regulatory authorities, regardless of jurisdiction), if applicable.
 
 12. (Optional) List any possible oracle data sources for the proposed Collateral type.
+    - XAU/USD Chainlink data feed to track the value of the claims.
 
 13. (Optional) List any parties interested in taking part in liquidations for the proposed Collateral type.
