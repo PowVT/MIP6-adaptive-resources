@@ -26,8 +26,10 @@ The underlying product value is to be used as collateral for the pre-financing t
 
 4. Link the whitepaper, documentation portals, and source code for the system(s) that interact with the proposed collateral, and all relevant Ethereum addresses. If the system is complex, schematic(s) are especially appreciated.
 
-    - [AdaptiveClaim Token](https://blockscout.com/xdai/mainnet/tokens/0xcbca271EAa9626fd2ce76926c8e5DF3da42D1Ae4/token-transfers)
+    - [AdaptiveClaim Token Blockscout](https://blockscout.com/xdai/mainnet/tokens/0xcbca271EAa9626fd2ce76926c8e5DF3da42D1Ae4/token-transfers)
+    - [AdaptiveClaim Token Code](https://github.com/PowVT/MIP6-adaptive-resources/blob/master/Contracts/ClaimToken.sol)
     - [Beneficiary Stream](https://blockscout.com/xdai/mainnet/address/0x9A83946b6a074E3A0187C23471dcb6a17d9b630A/transactions)
+    - [Beneficiary Stream Code](https://github.com/PowVT/MIP6-adaptive-resources/blob/master/Contracts/BeneficiaryStream.sol)
     - [adaptiveresources.io](https://adaptiveresources.io)
     - [app.adaptiveresources.io](https://adaptive-claim.surge.sh)
     - [xDai Flow Diagram](https://photos.app.goo.gl/eTBWTbvw6SaHnPFk8)
