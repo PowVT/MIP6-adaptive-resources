@@ -1,8 +1,8 @@
-# MIP6: Collateral Onboarding Application
+# MIP6: Collateral Onboarding Application for Adaptive Resources
 
 1. Who is the interested party for this collateral application?
     - Adaptive Resources LLC
-    - Jon Ellermann
+    - @AdaptiveResources
 
 2. Provide a brief high-level overview of the project, with a focus on the applying collateral token.
 
@@ -18,16 +18,18 @@ Prior to the 30-day deadline, the claim producers however need to pay for the co
 
 The underlying product value is to be used as collateral for the pre-financing to take place. For example, a regional Gold exporter creates a claim on the Adaptive app. Later, a refiner in another country buys this claim through the app. If, for example,  the underlying value of the gold on the claim is $5,000 USD, Adaptive Resources will be the temporary owners of the claim and financing will be provided to the exporter (claim creator) in order to pay the upstream supply chain workers as well as any shipping costs associated with the transaction. By using a Letter of Credit, the importer can minimize their risk while liquidity providers can be protected by the underlying collateral. By working with MakerDAO, Adaptive Resources seeks to provide pre-financing necessary for claim creators using the Letter of Credit mechanism and treating the claim itself as collateral. 
 
+Adaptive is partnering with various organizations to ensure all operations around the mine sites are up to standard. These organizations include and are not limited to the ICGLR, CRAFT, Fairmined, iTSCi, EGC, and BSP. The certificates and schemes these organizations have in place, are directly recorded in our claim tokens. This provides transparency and another level of auditing which can be used by Adaptive and our partners to quickly and more accurately verify the claims created in the web application.
+
 3. Provide a brief history of the project.
 
-- Co-founders have worked in minerals trade, international development, blockchain, and trade finance for years. The solution has been in conceptual development since 2019.
-- Development of the Adaptive web application was started in March 2021. 
-- Beginning in October 2021, Adaptive team members will be conducting a field test of the application at an export site in Uganda.
+Co-founders have worked in minerals trade, international development, blockchain, and trade finance for years. The solution has been in conceptual development since 2019.
+Development of the Adaptive web application was started in March 2021. 
+Beginning in October 2021, Adaptive team members will be conducting a field test of the application at an export site in Uganda.
 
 4. Link the whitepaper, documentation portals, and source code for the system(s) that interact with the proposed collateral, and all relevant Ethereum addresses. If the system is complex, schematic(s) are especially appreciated.
 
-    - [AdaptiveClaim Token Blockscout](https://blockscout.com/xdai/mainnet/tokens/0xcbca271EAa9626fd2ce76926c8e5DF3da42D1Ae4/token-transfers)
-    - [AdaptiveClaim Token Code](https://github.com/PowVT/MIP6-adaptive-resources/blob/master/Contracts/ClaimToken.sol)
+    - [AdaptiveClaim Token](https://blockscout.com/xdai/mainnet/tokens/0xcbca271EAa9626fd2ce76926c8e5DF3da42D1Ae4/token-transfers)
+    - [Adaptive Claim Token Code](https://github.com/PowVT/MIP6-adaptive-resources/blob/master/Contracts/ClaimToken.sol)
     - [Beneficiary Stream](https://blockscout.com/xdai/mainnet/address/0x9A83946b6a074E3A0187C23471dcb6a17d9b630A/transactions)
     - [Beneficiary Stream Code](https://github.com/PowVT/MIP6-adaptive-resources/blob/master/Contracts/BeneficiaryStream.sol)
     - [adaptiveresources.io](https://adaptiveresources.io)
@@ -36,7 +38,7 @@ The underlying product value is to be used as collateral for the pre-financing t
 
 5. Link any available audits of the project. Both procedural and smart contract focused audits.
 
-The pilot implementation in October will be the first procedural use of the application. 
+The pilot implementation in October will be the first procedural use of the application. Smart contract audits will be held after a successful pilot implementation.
 
 6. Link to any active communities relating to your project.
 
@@ -58,6 +60,8 @@ Yes, the legal responsibility would lie in Adaptive Resources. Adaptive Resource
 
 Adaptive Claim tokens are created/bought/sold through the Adaptive app. Here all claim tokens are minted and sold. Financing for the Letter of Credit will be exchanged via xDai stablecoins.
 
+The xDai PoS ecosystem has been utilized for a few reasons, here we can create fast transactions that do not require the user to pay a lot in gas fees. Another important reason is this is a public blockchain network which hosts many many other protocols. So, instead of creating our own cryptographically incentivized blockchain which we would have to maintain, we chose to work within the xDai stable chain. Here we can deploy our contracts with confidence knowing the xDai chain is EVM compatible and would be interoperable with the ERC standards.  
+
 10. (Optional) Has your project obtained any legal opinions or memoranda regarding the regulatory standing of the token or an explanation of the same from the perspective of any jurisdiction? If so, those materials should be provided for community review.
 
 Adaptive Resources adheres to the requirements of the OECD Due Diligence Guidance for Responsible Supply Chains of Minerals from Conflict-Affected and High-Risk Areas. For projects pertaining to the Gold industry, all work will be aligned with LBMA ASM Guidance. For projects pertaining to Tin, Tungsten, and Tantalum (3T), all work will be aligned with the RMI/RMAP smelter requirements.
@@ -68,7 +72,9 @@ Adaptive resources and our partners will immediately suspend or discontinue enga
 
 11. (Optional) Describe whether there are any regulatory registrations for the token and provide related documentation (including an explanation of any past or existing interactions with any regulatory authorities, regardless of jurisdiction), if applicable.
 
+Adaptive Resources is in alignment with OECD, LBMA, RMI, and CRAFT international standards. We are committed to publicly sharing due diligence information and using innovative technologies to facilitate fair and equitable access to finance.
+
 12. (Optional) List any possible oracle data sources for the proposed Collateral type.
-    - XAU/USD Chainlink data feed to track the value of the claims.
+    - XAU/USD Chainink data feed to track the value of the claims.
 
 13. (Optional) List any parties interested in taking part in liquidations for the proposed Collateral type.
