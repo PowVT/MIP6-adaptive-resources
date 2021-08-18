@@ -14,6 +14,8 @@ The process of buying a claim is initiated and tracked via the web app and will 
 
 Prior to the 30-day deadline, the claim producers however need to pay for the commodity and for other business expenses. In the web application, claim creators with facilitated contracts can then apply for a Letter of Credit. Upon the approval of the claim documentation by the Adaptive team, a second review from our KYC partners, Adaptive will pre-finance the claim creator using xDai. At the maturity of the invoice, the claims creator will be transferred the invoiced sum from the buyer. Per the Letter of Credit, Adaptive will be paid back any pre-financing provided to the claim creator. 
 
+[Letter of Credit Flow Diagram](https://photos.app.goo.gl/LhGNADLx99Rt8ZqC9)
+
 The underlying product value is to be used as collateral for the pre-financing to take place. For example, a regional Gold exporter creates a claim on the Adaptive app. Later, a refiner in another country buys this claim through the app. If, for example,  the underlying value of the gold on the claim is $5,000 USD, Adaptive Resources will be the temporary owners of the claim and financing will be provided to the exporter (claim creator) in order to pay the upstream supply chain workers as well as any shipping costs associated with the transaction. By using a Letter of Credit, the importer can minimize their risk while liquidity providers can be protected by the underlying collateral. By working with MakerDAO, Adaptive Resources seeks to provide pre-financing necessary for claim creators using the Letter of Credit mechanism and treating the claim itself as collateral. 
 
 3. Provide a brief history of the project.
@@ -22,6 +24,7 @@ Development of the Adaptive web application was started in March 2021.
 Beginning in October 2021, Adaptive team members will be conducting a field test of the application at an export site in Uganda.
 
 4. Link the whitepaper, documentation portals, and source code for the system(s) that interact with the proposed collateral, and all relevant Ethereum addresses. If the system is complex, schematic(s) are especially appreciated.
+
     - [AdaptiveClaim Token](https://blockscout.com/xdai/mainnet/tokens/0xcbca271EAa9626fd2ce76926c8e5DF3da42D1Ae4/token-transfers)
     - [Beneficiary Stream](https://blockscout.com/xdai/mainnet/address/0x9A83946b6a074E3A0187C23471dcb6a17d9b630A/transactions)
     - [adaptiveresources.io](https://adaptiveresources.io)
@@ -29,27 +32,36 @@ Beginning in October 2021, Adaptive team members will be conducting a field test
     - [xDai Flow Diagram](https://photos.app.goo.gl/eTBWTbvw6SaHnPFk8)
 
 5. Link any available audits of the project. Both procedural and smart contract focused audits.
-    - The pilot implementation in October will be the first procedural use of the application. 
+
+The pilot implementation in October will be the first procedural use of the application. 
 
 6. Link to any active communities relating to your project.
-    - None
+
+None, the project has not been released to the public.
 
 7. How is the applying collateral type currently used?
-	Currently, the Adaptive App is not being used in production. Smart contracts are finalized, but the application itself has not been released. We are working on thoroughly testing the application and fine tuning for our use case with precious metals. 
-Using a Letter of Credit in trade finance is nothing new and popularity has increased since the pandemic due to large fluctuations in global order volumes. This type of financing allows the seller of the goods to accept a broad range of order volumes with fast processing times, enabled by the upfront financing. When focusing on African trade, fewer banks are engaging in trade finance due to anti-money laundering and know-your-customer regulations. This leads to an increase in the trade finance gap which favors the large enterprises over the small and medium operations. We hope that by providing a means of financing to these types of businesses, the trade finance gap will be reduced and enable the smaller organizations to participate sustainably in the global economy.
-In previous years, a majority of the product coming from the small and medium sized mining enterprises ended up being smuggled or misrepresented in order to maximize profits while avoiding fees and taxes. This leads to a lot of products not being properly documented and unsustainably produced. This is a major headache for the downstream buyers of these products. Refiners in Europe and abroad adhere to more stringent laws which require proper due diligence when purchasing commodities coming from high risk countries/ regions. This is why our platform focuses on the documentation of these claims while also facilitating a means of finance which will support the mining infrastructure as well as the mining community that works to create the claims. 
 
+	Current claim creation involves paper certificates, which are usually filled in by hand and have little connection to the physical product itself. Physical records can be easily manipulated, which corrupts the due diligence process and mitigates trust in the system. Our application removes the need to rely on physical certificates of due diligence and creates a digital representation of the production claim which, due to the blockchain, cannot be manipulated and is always auditable. The current ICGLR certificate based system in place has cost millions of dollars to implement, standardize and enforce. Our solution provides an efficient method of creating accurate digital claims which can be easily audited due to the nature of blockchain transactions. This claim system enables downstream brands to contribute directly to the costs of upstream due diligence. Downstream brands buying an Adaptive ‘claim token’ do so knowing the product was produced in accordance with local environmental and labor standards.
 
-    - Currently, the Adaptive App is not being used in production. Smart contracts are finalized, but the application itself has not been released. With the help of Maker we can provide the final piece of our trade finance protocol. Ultimately, this type of claim system can be used in a variety of trade scenarios, but we hope to first focus on the resposible trade in minerals and metals industry. These metals are integral to the electric vehicle and tech sector, with demand expected to rise significantly in the coming years. 
+This type of business model is accomplished by utilizing a Letter of Credit to facilitate trade finance. This type of financing allows the seller of the goods to accept a broad range of order volumes with fast processing times, enabled by the upfront financing. Using a Letter of Credit in trade finance is nothing new and popularity has increased since the pandemic due to large fluctuations in global order volumes.  When focusing on African trade, fewer banks are engaging in trade finance due to anti-money laundering and know-your-customer regulations. This leads to an increase in the trade finance gap which favors the large enterprises over the small and medium operations. We hope that by providing a means of financing to these types of businesses, the trade finance gap will be reduced and enable the smaller organizations to participate sustainably in the global economy. 
+
+In previous years, a majority of the product coming from the small and medium sized mining enterprises ended up being smuggled or misrepresented in order to maximize profits while avoiding fees and taxes. This leads to a lot of products not being properly documented and unsustainably produced. This is a major headache for the downstream buyers of these products. Refiners in Europe and abroad adhere to more stringent laws which require proper due diligence when purchasing commodities coming from high risk countries/ regions. This is why our platform focuses on the documentation of these claims while also facilitating a means of finance which will support the mining infrastructure as well as the mining community that works to create the claims. We believe providing short-term trade finance is generally low risk when following proper due-diligence procedures.
 
 8. Does one organization bear legal responsibility for the collateral? What jurisdiction does that organization reside in?
-    - Yes, the legal responsibility would lie in Adaptive Resources. Adaptive Resources LLC is a Delaware, USA company.  
+
+Yes, the legal responsibility would lie in Adaptive Resources. Adaptive Resources LLC is a Delaware, USA company.  
 
 9. Where does exchange for the asset occur?
-    - Adaptive Claim tokens are created/bought/sold through the Adaptive app. Here all claim tokens are minted and sold. 
-    - Financing for the Letter of Credit will be exchanged via (Dai stablecoins?)
+
+Adaptive Claim tokens are created/bought/sold through the Adaptive app. Here all claim tokens are minted and sold. Financing for the Letter of Credit will be exchanged via xDai stablecoins.
 
 10. (Optional) Has your project obtained any legal opinions or memoranda regarding the regulatory standing of the token or an explanation of the same from the perspective of any jurisdiction? If so, those materials should be provided for community review.
+
+Adaptive Resources adheres to the requirements of the OECD Due Diligence Guidance for Responsible Supply Chains of Minerals from Conflict-Affected and High-Risk Areas. For projects pertaining to the Gold industry, all work will be aligned with LBMA ASM Guidance. For projects pertaining to Tin, Tungsten, and Tantalum (3T), all work will be aligned with the RMI/RMAP smelter requirements.
+
+In alignment with OECD Due Diligence Guidence, we will neither tolerate, contribute to, assist with, or facilitate the commission of: Any forms of torture, inhumane, and degrading treatment, and form of forced/ or child labor. Human rights violations and abuses such as widespread sexual violence. War crimes or other serious violations of international humanitarian law, crimes against humanity, or genocide. 
+
+Adaptive resources and our partners will immediately suspend or discontinue engagement with our counterparty where we identify a reasonable risk that they are sourcing from, linked to, or committing any serious abuses defined above. 
 
 11. (Optional) Describe whether there are any regulatory registrations for the token and provide related documentation (including an explanation of any past or existing interactions with any regulatory authorities, regardless of jurisdiction), if applicable.
 
